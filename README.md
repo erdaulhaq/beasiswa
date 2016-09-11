@@ -33,7 +33,7 @@ Tampilan jika data sudah benar dan lengkap :
 
 
 Link file apk :
-https://docs.google.com/file/d/0B__-9V3Ik2vBYnBEU0VyWENvMDg/view
+https://docs.google.com/uc?id=0B__-9V3Ik2vBYnBEU0VyWENvMDg
 
 Terima kasih
 * Nama : Erda Ul'haq Bagig Dana
